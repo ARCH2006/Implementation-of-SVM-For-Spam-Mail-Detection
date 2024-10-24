@@ -57,7 +57,7 @@ print(cl)
 
 ## Output:
 # Head:
-![Screenshot 2024-10-24 030759](https://github.com/user-attachments/assets/bb02c9e8-29ce-42bf-923c-876c05fbba5c)
+![Screenshot 2024-10-24 030744](https://github.com/user-attachments/assets/9a244c05-b1f9-4e95-8c2d-0ebd23ca5e99)
 # info:
 ![Screenshot 2024-10-24 030752](https://github.com/user-attachments/assets/9558487e-97f0-480e-a16b-e7a58f38715e)
 # accuracy
